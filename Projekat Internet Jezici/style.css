@@ -1,0 +1,68 @@
+body  {
+    margin: 0;
+    padding: 0;
+}
+
+ 
+body {
+
+    text-align: left;
+
+     
+     
+}
+
+.header {
+    
+    
+        display: inline-block;
+        width:  100px;
+        margin: 17px 12px;
+        border-radius: 100px;
+        padding: 10px;
+        background-color: black;
+    
+    }
+    
+     
+    
+    .navbar ul{
+        text-align: center;
+        background-image: url(Pozadina1.jpg);
+    
+
+}
+
+.nav-menu {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.nav-item {
+    margin: 15px;
+}
+
+.nav-item a {
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+     
+}
+
+.nav-item a:hover {
+    color: #FFD700;  
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 0px;
+    text-align: center;
+}
+
+ 
+ 
+
+     
